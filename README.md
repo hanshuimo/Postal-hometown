@@ -1,5 +1,9 @@
 # media
 
+部分模型与音视频文件
+链接：https://pan.baidu.com/s/1942AREAhygBjzeKV8kissA 
+提取码：e9bs 
+
 ## Project setup
 ```
 npm install
